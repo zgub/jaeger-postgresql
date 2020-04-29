@@ -14,5 +14,8 @@ jaeger-pg-store
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# VScode IDE 
+.vscode
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
